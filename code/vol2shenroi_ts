@@ -10,7 +10,7 @@ args = dict(
 atlas_filename = "sub-{sub}/atlases/bold3Tp2/shen_fconn_atlas_150.nii.gz".format(**args)
 fmri_filename = "src/aligned/sub-{sub}/in_bold3Tp2/sub-{sub}_task-avmovie_run-{run}_bold.nii.gz".format(**args)
 confounds = "src/aligned/sub-{sub}/in_bold3Tp2/sub-{sub}_task-avmovie_run-{run}_bold_mcparams.txt".format(**args)
-csv_filename = os.path.join("sub-{sub}".format(**args), os.path.basename(fmri_filename)[:-6] + "csv")
+csv_filename = os.path.join("sub-{sub}".format(**args), 'shen_fconn', os.path.basename(fmri_filename)[:-6] + "csv")
 
 ##############################################################################
 # Extract signals on a parcellation defined by labels using the
