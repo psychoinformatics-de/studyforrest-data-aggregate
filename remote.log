@@ -1,3 +1,2 @@
- autoenable=true location=https://gin.g-node.org/studyforrest/aggregate-fmri-timeseries.git name=gin type=git timestamp=1620015567.730686012s
 11d89be1-d3e3-4803-8ba2-c168411b4e80 autoenable=true location=http://psydata.ovgu.de/studyforrest/aggregate/.git name=psydata type=git timestamp=1511528268.553343287s
-b1cffbff-ef07-4f22-a736-53d92eeb2c7a archive-id=7fcd8812-d0fe-11e7-8db2-a0369f7c647e autoenable=true encryption=none externaltype=ora name=inm7-storage push-url=ria+ssh://bulk1.htc.inm7.de/ds/studyforrest/srv type=external url=ria+ssh://bulk1.htc.inm7.de/ds/studyforrest/srv timestamp=1620015276.771356795s
+b1cffbff-ef07-4f22-a736-53d92eeb2c7a archive-id=7fcd8812-d0fe-11e7-8db2-a0369f7c647e autoenable=true encryption=none externaltype=ora name=inm7-storage push-url=ria+ssh://bulk1.htc.inm7.de/ds/studyforrest/srv type=external url=ria+http://studyforrest.ds.inm7.de timestamp=1620022089.160920561s
