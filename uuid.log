@@ -1,6 +1,6 @@
- gin timestamp=1620015567.729745991s
 11d60f59-d220-4b86-9b84-7fdcfe6937c7 mih@meiner:~/forrest/collection/aggregate timestamp=1467100784.335106s
 11d89be1-d3e3-4803-8ba2-c168411b4e80 psydata timestamp=1511528268.547388614s
 2d364a44-eb57-4a88-9c75-a1a22fbabfeb mih@medusa:/home/data/psyinf/forrest_gump/collection/aggregate timestamp=1467145066.914666s
 b1cffbff-ef07-4f22-a736-53d92eeb2c7a inm7-storage timestamp=1619607247.400550598s
 dbc3db78-29b6-4d87-b384-dd3244fa7c52 mih@data1:/data/project/studyforrest/superds/derivative/aggregate_fmri_timeseries timestamp=1620015273.495940854s
+f2cd7b91-6ce6-490f-b2dd-21bce9b90b6b git@82709b2ed170:/data/repos/studyforrest/aggregate-fmri-timeseries.git timestamp=1620015698.176140289s
